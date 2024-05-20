@@ -1,5 +1,4 @@
-Kütüphame olarak klasik kütüphaneleri kullandım ama yine de belirteyim.
-
+YZUE Modül 1
 numpy
 pandas
 matplotlib
